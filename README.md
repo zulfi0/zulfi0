@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zulfi0
-- 👀 I’m interested in hacking, pentesting,
-- 🌱 I’m currently learning 
+- 👀 I’m interested in hacking, pentesting, 
 - 📫 Contact me at [telegram](https://t.me/zulfi010)
 
 <!---
